@@ -1,11 +1,9 @@
 import React from "react"; 
-import './flexbox.css';
+import './assignment.css';
 
 function flexbox(){
 return(
-    <div className="flex-container">
-  
-  
+    <div className="flex-container"> 
   <div className="grid-container">
   <h1 className="tab1"> shola</h1>
   <h1 className="tab2">bolanle</h1>
