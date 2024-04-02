@@ -4,12 +4,7 @@ import './flexbox.css';
 function flexbox(){
 return(
     <div className="flex-container">
-  <div className="container-flex">
-
-  <h1 className="flex"> shola</h1>
-  <h1 className="flex">bolanle</h1>
-  <h1 className="flex">chinonso</h1>
-  </div>
+  
   
   <div className="grid-container">
   <h1 className="tab1"> shola</h1>
