@@ -1,7 +1,7 @@
 import React from "react"; 
 import './assignment.css';
 
-function flexbox(){
+function assignment(){
 return(
     <div className="flex-container"> 
   <div className="grid-container">
@@ -26,4 +26,4 @@ return(
 )
 
 }
-export default flexbox
+export default assignment
