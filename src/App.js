@@ -1,13 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
-
+//import logo from './logo.svg';
+//import './App.css';
+import Assignment from './assignment';
 
 
 function App() {
   return (
     <div className="App">
-    
-    <App/>
+      
+<Assignment/>
      
     </div>
   )

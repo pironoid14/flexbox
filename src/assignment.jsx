@@ -1,9 +1,10 @@
 import React from "react"; 
 import './assignment.css';
 
-function assignment(){
+function Assignment(){
 return(
-    <div className="flex-container"> 
+    
+
   <div className="grid-container">
   <h1 className="tab1"> shola</h1>
   <h1 className="tab2">bolanle</h1>
@@ -22,8 +23,9 @@ return(
   <h1 className="tab15">joshua</h1>
   <h1 className="tab16">thomas</h1>
   </div>
-  </div>
+  
+
 )
 
 }
-export default assignment
+export default Assignment
